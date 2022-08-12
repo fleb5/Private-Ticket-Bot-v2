@@ -1,0 +1,47 @@
+{
+    "FLEB5": {
+        "BOT": {
+            "token": "",
+            "clientid": ""
+        },
+    
+        "SERVER": {
+            "idguild": ""
+        },
+
+        "ROLES": {
+            "staff": ""
+        },
+
+        "CHANNEL": {
+            "transcript": ""
+        },
+
+        "CATEGORY": {
+            "TICKET": {
+                "support": "",
+                "info": "",
+                "gamemode": "",
+                "patreon": "",
+                "purchase": ""
+            }
+        },
+
+        "LANG": {
+            "EMBED": {
+                "title": "Ticket System",
+                "url": "https://github.com/fleb5",
+                "color": "BLUE",
+                "thumbnail": "https://cdn.discordapp.com/attachments/824923744035536936/878970750512554035/Loris.png",
+                "footer_text": "Developed by fleb5",
+                "footer_image": "https://cdn.discordapp.com/attachments/824923744035536936/878970750512554035/Loris.png"
+            },
+
+            "MISC": {
+                "setup_message_sent": "Setup message sent",
+                "contact_us_message_reply": "I wrote to you privately."
+            }
+        }
+    }
+}
+  
